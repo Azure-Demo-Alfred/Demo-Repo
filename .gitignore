@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/Demo/.vs/Demo/v16/ipch/AutoPCH/381989dfac651636/DEMO.ipch
+/Demo/.vs/Demo/v16
